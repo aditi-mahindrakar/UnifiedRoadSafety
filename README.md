@@ -10,6 +10,13 @@ This system uses an **ESP32 Cam** and **YOLO** object detection to prevent anima
 ## 📸 System in Action
 ![Live Testing](live%20testing.jpg)
 
+## ⚙️ Software Setup
+To run the YOLO server, you need to install the required Python libraries. Run the following command in your terminal:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## 🛠️ Hardware Used
 - ESP32 Cam Module
 - ESP32 Devkit
